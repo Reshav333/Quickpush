@@ -57,5 +57,5 @@ sudo mv quickpush /usr/local/bin/quickpush
 ## Usage
  Type quickpush and enter then the message and enter again :-
 ```bash
-quickpush message
+quickpush <message>
 ```
