@@ -27,7 +27,7 @@ Ideal for:
 - Bash (version 3.2+)
 - Git (version 2.22+ recommended)
 - A GitHub account
-- Works best if your PAT and Username is stored (credential stored/credential cached)
+- Works best if your PAT and Username is stored (alternatively you can remove `> /dev/null 2>&1` form line 14)
 
 ---
 
