@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#updated version
+
 if [ -z "$*" ]; then
    echo "  Failed : no commit message"
       exit 1
